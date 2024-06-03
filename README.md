@@ -1,4 +1,4 @@
-Register Here - https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/Data-Visualisation-Empowering-Business-with-Effective-Insights?ref=vuX7y7cLC2JkqAaoD
+
 
 # Tata-Data-Visualisation-Virtual-Internship
 
@@ -34,5 +34,5 @@ Effectively communicate your findings and explain how it relates to each scenari
 2] Effective Communication
 3] Analytics & Insights
 
-![image](https://user-images.githubusercontent.com/97459174/235720953-b9e57b93-f12c-49be-8909-5757c5246d0b.png)
+
 
