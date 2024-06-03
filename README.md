@@ -34,5 +34,7 @@ Effectively communicate your findings and explain how it relates to each scenari
 2] Effective Communication
 3] Analytics & Insights
 
+**Program link**: [Forage](https://www.theforage.com/simulations/tata/data-visualisation-p5xo)
 
+**Completion Certificate link**: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_uqKYRZM3DE3ZHWgSA_1716801353754_completion_certificate.pdf)
 
